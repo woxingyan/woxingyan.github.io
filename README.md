@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
 
-I love you  WANGYUNFENG
 
 You can use the [editor on GitHub](https://github.com/woxingyan/woxingyan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
