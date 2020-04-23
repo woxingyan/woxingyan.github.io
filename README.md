@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-王兴是傻狗
+[王兴是傻狗](https://github.com/woxingyan/woxingyan.github.io/issues/1#issue-605419160)
 
 You can use the [editor on GitHub](https://github.com/woxingyan/woxingyan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
